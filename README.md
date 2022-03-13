@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berkeli</h1>
 <h3 align="center">A passionate fullstack developer based in London.</h3>
 
-- 🔭 I’m currently working on [World of Tanks Player statistics GraphQl backend](https://github.com/berkeli/wot-api)
+- 🔭 I’m currently working on [CodeYourFuture Leaderboard](https://github.com/berkeli/cyf-leaderboard)
 
 - 🌱 I’m currently learning **TypeScript, Node.js**
 
