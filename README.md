@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Berkeli</h1>
-<h3 align="center">A passionate fullstack developer based in London.</h3>
+<h3 align="center">A passionate Software Engineer based in London.</h3>
 
-- 🔭 I’m currently working on [CodeYourFuture Leaderboard](https://github.com/berkeli/cyf-leaderboard)
+- 🔭 I’m currently working on [Breteau Dashboard](https://github.com/berkeli/breteau-dashboard). A full-stack application for a non-profit organisation.
 
-- 🌱 I’m currently learning **TypeScript, Node.js**
+- 🌱 I’m currently learning **TypeScript, GO**
 
-- 💬 Ask me about **Salesforce, React, HTML/CSS**
+- 💬 Ask me about **Salesforce, React, HTML/CSS, Node.js, React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
