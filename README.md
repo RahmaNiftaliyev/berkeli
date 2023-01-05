@@ -134,4 +134,8 @@
 
 <img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=berkeli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
+<p align="center"> 
 
+<img src="https://komarev.com/ghpvc/?username=berkeli" alt="Berkeli's Profile View Counter"/>
+
+</p>
